@@ -55,3 +55,8 @@ https://43.204.208.123:943/admin
 
 Go to usermanagement
 create users
+
+provide url to access public IP:943
+
+
+https://www.youtube.com/watch?v=XO4WQ3VdYDE  (video for set up this)
