@@ -1,3 +1,4 @@
+[openvpn-setup.txt](https://github.com/Ramyaji/Setup-Openvpn-2023/files/13890976/openvpn-setup.txt)
 # Setup-Openvpn-2023
 Setup-Openvpn-2023
 
